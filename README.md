@@ -1,4 +1,13 @@
-### Hi there 👋
+## Tôi là ai ?
+- Java developer, Software engineer tại công ty TNHH Công Nghệ Laptrinhjavaweb
+- Technical Content Engineer tại Laptrinhjavaweb.com: Blog học lập trình java core, java web, java hosting dễ dàng
+- Cô giáo dạy lập trình Java tại Laptrinhjavaweb Academy: Hệ thống cung cấp các khóa học java core, java web, java hosting chất lượng
+- Nhân viên kinh doanh tại Laptrinhjavaweb Software: cung cấp dịch vụ Java hosting, cloud VPS, tên miền, SSL, email server và các dịch vụ phần mềm khác
+- Nhân viên kinh doanh tại Laptrinhjavaweb shop: chuyên cung cấp phụ kiện điện thoại, máy tính, laptop, phụ kiện công nghệ ...
+
+## Theo dõi để có thể nhận thông báo mới nhất về Java nhé
+- Facebook: https://www.facebook.com/lamrangho
+- Youtube: https://www.youtube.com/laptrinhjavaweb
 
 <!--
 **truonglam-laptrinhjavaweb/truonglam-laptrinhjavaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
