@@ -9,3 +9,5 @@
 - Facebook: https://www.facebook.com/lamrangho
 - Youtube: https://www.youtube.com/laptrinhjavaweb
 - Fanpage: https://www.facebook.com/laptrinhjavaweb
+- Zalo: https://zalo.me/g/pvnkgo753
+- Group hỏi đáp: https://www.facebook.com/groups/laptrinhjavaweb
