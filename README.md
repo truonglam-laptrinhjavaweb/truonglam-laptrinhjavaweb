@@ -1,12 +1,12 @@
 ## Tôi là ai ?
 Current:
 - Java Software Engineer tại công ty FSOFT (DA NANG city)
-- Java Technical Consulting tại công ty TNHH Công Nghệ Laptrinhjavaweb
+- Java Technical Consulting tại công ty TNHH Công Nghệ Laptrinhjavaweb (DA NANG city)
 - Technical Content Engineer tại Laptrinhjavaweb.com: Blog học lập trình java core, java web, java hosting dễ dàng
 - Cô giáo dạy lập trình Java tại Laptrinhjavaweb Academy: Hệ thống cung cấp các khóa học java core, java web, java hosting chất lượng
 
 Past:
-- Java Software Engineer tại công ty TNHH Công Nghệ Laptrinhjavaweb
+- Java Software Engineer tại công ty TNHH Công Nghệ Laptrinhjavaweb (HCM city)
 - Java Software Engineer tại công ty FSOFT (HCM city)
 - Java Software Engineer tại công ty Bản Viên (HCM city, Fresher)
 
