@@ -8,7 +8,7 @@ Current:
 Past:
 - Java Software Engineer tại công ty TNHH Công Nghệ Laptrinhjavaweb
 - Java Software Engineer tại công ty FSOFT (HCM city)
-- Java Software Engineer tại công ty Bản Viên (fresher)
+- Java Software Engineer tại công ty Bản Viên (HCM city, Fresher)
 
 ## Theo dõi để có thể nhận thông báo mới nhất về Java nhé
 - Facebook: https://www.facebook.com/lamrangho
