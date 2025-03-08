@@ -8,7 +8,7 @@ Current (8/2024 - Now):
 Past:
 - 4/2021 - 8/2024: Senior Java Software Engineer tại công ty TNHH Công Nghệ Laptrinhjavaweb (HCM city)
 - 1/2018 - 3/2021: Middle Java Software Engineer tại công ty FSOFT (HCM city)
-- 2017: Fresher Java Software Engineer tại công ty Bản Viên (HCM city)
+- 12/2016 - 10/2017: Fresher Java Software Engineer tại công ty Bản Viên (HCM city)
 
 ## Theo dõi để có thể nhận thông báo mới nhất về Java nhé
 - Facebook: https://www.facebook.com/lamrangho
