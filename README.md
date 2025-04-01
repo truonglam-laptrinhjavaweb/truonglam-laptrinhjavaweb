@@ -4,6 +4,7 @@ Current (8/2024 - Now):
 - Java, Spring framework Technical Consulting tại công ty TNHH Công Nghệ Laptrinhjavaweb (DA NANG city)
 - Technical Content Engineer tại Laptrinhjavaweb.com: Blog học lập trình java core, java web, java hosting dễ dàng
 - Cô giáo dạy lập trình Java tại Laptrinhjavaweb Academy: Hệ thống cung cấp các khóa học java core, java web, java hosting chất lượng
+- Nhân viên kỹ thuật tại Laptrinhjavaweb Software: cung cấp Cloud VPS, tên miền, SSL, java hosting và các dịch vụ phần mềm khác như: thiết kế website, bán source code
 
 Past:
 - 4/2021 - 8/2024: Senior Java Software Engineer tại công ty TNHH Công Nghệ Laptrinhjavaweb (HCM city)
